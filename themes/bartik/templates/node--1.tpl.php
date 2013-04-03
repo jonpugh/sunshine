@@ -1,3 +1,6 @@
 ABOUT US
+WE AREN't READY YET!
 
-coming soon...
+
+
+<?php print_r($node); ?>
